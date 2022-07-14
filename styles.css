@@ -465,4 +465,9 @@ img{
         width: 120px;
         height: 120px;
     }
+
+    .nav__menu{
+        margin-left: 0;
+        margin-right: 0;
+    }
 }
